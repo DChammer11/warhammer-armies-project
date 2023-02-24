@@ -4338,7 +4338,7 @@
             </selectionEntry>
           </selectionEntries>
           <costs>
-            <cost name="pts" typeId="points" value="28.0"/>
+            <cost name="pts" typeId="points" value="26.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -4789,7 +4789,7 @@
                 <characteristic name="T" typeId="df90-5cbd-8cf9-95b2">3</characteristic>
                 <characteristic name="W" typeId="27ee-0675-122f-a1b1">1</characteristic>
                 <characteristic name="I" typeId="7cca-e51f-edc2-7322">6</characteristic>
-                <characteristic name="A" typeId="bfa2-d38d-7c93-d3f0">1</characteristic>
+                <characteristic name="A" typeId="bfa2-d38d-7c93-d3f0">2</characteristic>
                 <characteristic name="LD" typeId="a199-f10b-a038-5730">9</characteristic>
                 <characteristic name="Type" typeId="13f9-a26b-05af-3459">Infantry</characteristic>
               </characteristics>
@@ -4828,7 +4828,7 @@
             </selectionEntry>
           </selectionEntries>
           <costs>
-            <cost name="pts" typeId="points" value="16.0"/>
+            <cost name="pts" typeId="points" value="18.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -5125,7 +5125,7 @@
             </selectionEntryGroup>
           </selectionEntryGroups>
           <costs>
-            <cost name="pts" typeId="points" value="50.0"/>
+            <cost name="pts" typeId="points" value="45.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -8582,12 +8582,12 @@ of Finubar are Stubborn.</characteristic>
               <characteristics>
                 <characteristic name="Combat" typeId="617f-cb5d-6c83-2017"/>
                 <characteristic name="Missile" typeId="5b67-725f-ad85-da5b"/>
-                <characteristic name="Special Rules" typeId="4e25-3626-a136-c38d">Shield. The bearer of the Shield of the Merwyrm gains Parry (4+) instead of the normal 6+.</characteristic>
+                <characteristic name="Special Rules" typeId="4e25-3626-a136-c38d">Shield. The bearer of the Shield of the Merwyrm gains Parry (5+) instead of the normal 6+.</characteristic>
               </characteristics>
             </profile>
           </profiles>
           <costs>
-            <cost name="pts" typeId="points" value="25.0"/>
+            <cost name="pts" typeId="points" value="15.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="105a-5b6d-c2e3-d7fc" name="Shadow Armour" page="" hidden="false" collective="false" import="true" type="upgrade">
